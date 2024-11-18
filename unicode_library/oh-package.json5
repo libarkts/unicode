@@ -1,0 +1,11 @@
+{
+  "name": "unicode",
+  "version": "0.0.1",
+  "description": "Easy to use Unicode library, API9+",
+  "main": "index.ts",
+  "author": "ZhangJian He",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/libarkts/unicode",
+  "repository": "https://github.com/libarkts/unicode",
+  "dependencies": {}
+}

@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "unicode_library",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+    ]
+  }
+}
